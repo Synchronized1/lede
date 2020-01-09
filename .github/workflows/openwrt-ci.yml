@@ -181,7 +181,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-dnspod=y
           CONFIG_PACKAGE_luci-app-p910nd=y
           CONFIG_PACKAGE_luci-app-ramfree=y
-          CONFIG_PACKAGE_luci-app-smartdn=y
+          CONFIG_PACKAGE_luci-app-smartdns=y
           CONFIG_PACKAGE_luci-app-docker=y
           EOF
 
